@@ -1,0 +1,10 @@
+een file om mee te testen
+commando's geleerd:
+
+git init
+git commit
+git log
+git status
+git config
+git diff
+
